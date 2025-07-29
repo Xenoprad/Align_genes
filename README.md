@@ -21,13 +21,13 @@ multiple_sequence_alignment.ipynb
 
 Sequence alignment isn’t just about comparing letters — it’s how we:
 
-Study evolution between genes and species
+* Study evolution between genes and species
 
-Detect mutations or conserved motifs
+* Detect mutations or conserved motifs
 
-Design better experiments in molecular biology
+* Design better experiments in molecular biology
 
-Build the foundation for advanced bioinformatics pipelines
+* Build the foundation for advanced bioinformatics pipelines
 
 
 
